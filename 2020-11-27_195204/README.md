@@ -1,0 +1,1 @@
+Data recordered using https://github.com/remmel/ar3dplanphoto (pose determined by Google ARCore)
