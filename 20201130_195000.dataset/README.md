@@ -1,0 +1,1 @@
+Recorded with [3D Scanner for ARCore Pro](https://play.google.com/store/apps/details?id=com.lvonasek.arcore3dscannerpro)
