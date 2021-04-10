@@ -1,0 +1,162 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "featuresFolders": [
+        "..\\..\\FeatureExtraction\\1da0812492bf8d7f6ab75aa740318e7b9a355e19"
+    ],
+    "matchesFolders": [
+        "..\\..\\FeatureMatching\\c13c7906d9eb9b6c55f1706e81904528a8a586c4"
+    ],
+    "views": [
+        {
+            "viewId": "662723849",
+            "poseId": "662723849",
+            "intrinsicId": "2738080997",
+            "path": "C:\/Users\/remme\/workspace\/dataset\/2021-04-10_114859_pcchessboard\/photos\/00000257_image.jpg",
+            "width": "3968",
+            "height": "2976",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "822940110",
+            "poseId": "822940110",
+            "intrinsicId": "2738080997",
+            "path": "C:\/Users\/remme\/workspace\/dataset\/2021-04-10_114859_pcchessboard\/photos\/00000490_image.jpg",
+            "width": "3968",
+            "height": "2976",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1847046796",
+            "poseId": "1847046796",
+            "intrinsicId": "2738080997",
+            "resectionId": "0",
+            "path": "C:\/Users\/remme\/workspace\/dataset\/2021-04-10_114859_pcchessboard\/photos\/00000348_image.jpg",
+            "width": "3968",
+            "height": "2976",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "2738080997",
+            "width": "3968",
+            "height": "2976",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.75",
+            "serialNumber": "C:\/Users\/remme\/workspace\/dataset\/2021-04-10_114859_pcchessboard\/photos",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "3182.2969863755793",
+            "principalPoint": [
+                "1984",
+                "1488"
+            ],
+            "distortionParams": [
+                "0.11064291277428677",
+                "-0.10952920719604038",
+                "0.068038850382412502"
+            ],
+            "locked": "0"
+        }
+    ],
+    "poses": [
+        {
+            "poseId": "662723849",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99989501220806509",
+                        "-0.0079905738861803556",
+                        "0.012087815782961829",
+                        "0.0083736375004691554",
+                        "0.99945347606326584",
+                        "-0.031978608163360039",
+                        "-0.011825682070987074",
+                        "0.032076469787438791",
+                        "0.99941545581881586"
+                    ],
+                    "center": [
+                        "0.063554600759739024",
+                        "0.33113499703322147",
+                        "0.70785965813747376"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "822940110",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99890118228573699",
+                        "-0.046850536799089341",
+                        "0.0012063290571420226",
+                        "0.046859331987994891",
+                        "0.99799047477609903",
+                        "-0.04265225975039854",
+                        "0.00079437635652695039",
+                        "0.04266192046560683",
+                        "0.99908925002143345"
+                    ],
+                    "center": [
+                        "0.0056059989633728893",
+                        "-1.2970585692569856",
+                        "0.67170628910725871"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1847046796",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99904453187016329",
+                        "-0.041917720253517733",
+                        "0.012366408899679014",
+                        "0.042314881141636417",
+                        "0.99853161502042276",
+                        "-0.033824024578328081",
+                        "-0.010930424250476942",
+                        "0.034314989923559476",
+                        "0.99935129323589245"
+                    ],
+                    "center": [
+                        "-0.0058876129109663861",
+                        "-0.54050956567643516",
+                        "0.74313303707929235"
+                    ]
+                },
+                "locked": "0"
+            }
+        }
+    ]
+}
